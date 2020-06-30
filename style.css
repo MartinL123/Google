@@ -1,0 +1,110 @@
+#merci
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 600px;
+}
+
+.header
+{
+	display: flex;  
+	flex-direction: row;
+}
+
+	.Gmail
+	{
+		display: flex;
+		flex-flow: row wrap;
+	}
+
+	.Images
+	{
+
+	}
+
+	.Connexion
+	{
+
+	}
+
+.Body
+{
+
+}
+
+	.ImageGoogle
+	{
+
+	}
+
+	.Form-group
+	{
+
+	}
+
+	.GoogleSearch
+	{
+
+	}
+
+	.FeelingLucky
+	{
+
+	}
+
+	.GoogleOffered
+	{
+
+	}
+
+.Footer
+{
+display: flex;
+align-items: flex-start;
+}
+
+	.France
+	{
+
+	}
+
+	.Advertising
+	{
+
+	}
+
+	.Business
+	{
+
+	}
+
+	.About
+	{
+
+	}
+
+	.HowSearchWorks
+	{
+
+	}
+
+	.Information
+	{
+
+	}
+
+	.Privacy
+	{
+
+	}
+
+	.Terms
+	{
+
+	}
+
+	.Settings
+	{
+
+	}
